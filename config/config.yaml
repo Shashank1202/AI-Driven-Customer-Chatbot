@@ -1,0 +1,9 @@
+Setup:
+  root_dir:setup.py
+  
+
+Store_index:
+  root_dir: store_index.py
+  
+template:
+  root_dir: template.py
